@@ -1,4 +1,4 @@
-package com.tcristols.demo;
+package com.tcristols.alunos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
